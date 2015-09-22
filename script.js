@@ -7,6 +7,8 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @version      0.1
+// @grant        GM_getValue
+// @grant        GM_setValue
 // @run-at       document-end
 // ==/UserScript==
 
@@ -451,6 +453,15 @@ window.TKsetup = function TKsetup(config) {
 	deactivate_fbtk(); activate_fbtk();
 }
 
+function save_prefs() {
+	if(!window.GM_setValue) {
+		return;
+	}
+	GM_setValue('FUprefix', window['TKconfig']['FUprefix']);
+	GM_setValue('gf', window['TKconfig']['gf']);
+	GM_setValue('enabled', !!window.theTKTitleObserver);
+}
+
 function tk_keypress(e) {
 	if (!e.target || e.target.nodeType != 1) return true;
 	var tgt = e.target;
@@ -468,6 +479,8 @@ function tk_keypress(e) {
 		toggle_fu_prefix();
 	else
 		return true;
+
+	save_prefs();
 
 	e.stopPropagation();
 	e.preventDefault();
