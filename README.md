@@ -20,3 +20,11 @@ Lavet af [Mathias Rav](https://github.com/Mortal).
 [tm]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 [scriptish]: https://addons.mozilla.org/en-US/firefox/addon/scriptish/
 [install]: https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
+
+## Indstillinger
+
+Tryk på disse taster inde på Facebook for at ændre indstillingerne til fbtk:
+
+Slå fbtk til eller fra: `*` (asterisk)  
+Slå FU-præfiks til eller fra: `!` (udråbstegn)  
+Ændr TK-året: `+` / `-` (plus / minus)
