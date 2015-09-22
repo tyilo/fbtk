@@ -1038,16 +1038,17 @@ add_aliases(
 '2014 FUSØ Søren Kenneth Højgaard Sørensen\n'+
 '2014 FUWI William Heyman Krill\n'+
 '2014 FUWI William Heyman\n'+
-'2015 FUAK	Martin Aakjær Jørgensen\n'+
-'2015 FUAN	Per Næsby Høgfeldt\n'+
-'2015 FUGL	Katrine Alice Glasscock\n'+
-'2015 FUGO	Asger Roed-Åstrøm\n'+
-'2015 FUIL	Sille Eline Piilgard Andersen\n'+
-'2015 FUNN	Anna Mie Hansen\n'+
-'2015 FUPI	Freja Frederikke Pinderup\n'+
-'2015 FUSJ	Kirstine Friis Jensen\n'+
-'2015 FUTØ	Marcus Høgsholt Nilson\n'+
-'2015 FUVE	Thomas Skovlund Hansen\n'+
+'2015 FUAK Martin Aakjær Jørgensen\n'+
+'2015 FUAN Per Næsby Høgfeldt\n'+
+'2015 FUGL Katrine Alice Glasscock\n'+
+'2015 FUGO Asger Roed-Åstrøm\n'+
+'2015 FUIL Sille Eline Piilgard Andersen\n'+
+'2015 FUIL Sille P. Andresen\n'+
+'2015 FUNN Anna Mie Hansen\n'+
+'2015 FUPI Freja Frederikke Pinderup\n'+
+'2015 FUSJ Kirstine Friis Jensen\n'+
+'2015 FUTØ Marcus Høgsholt Nilson\n'+
+'2015 FUVE Thomas Skovlund Hansen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
@@ -1074,7 +1075,8 @@ add_aliases(
 '"Stive-Anna" Anna Sejersen Riis\n'+
 '"Ålen"       Frederik Brinck Truelsen\n'+
 ''
-);var enabled = true;
+);
+var enabled = true;
 if (window.GM_getValue) {
   window['TKconfig']['FUprefix'] = GM_getValue('FUprefix', false);
   window['TKconfig']['gf'] = GM_getValue('gf', 2015);
