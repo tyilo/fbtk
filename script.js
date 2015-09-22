@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.1
+// @version      0.2
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end

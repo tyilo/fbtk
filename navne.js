@@ -127,6 +127,7 @@ add_aliases(
 '2014 FUWI William Heyman\n'+
 '2015 FUAK Martin Aakjær Jørgensen\n'+
 '2015 FUAN Per Næsby Høgfeldt\n'+
+'2015 FUAN Per Høgfeldt\n'+
 '2015 FUGL Katrine Alice Glasscock\n'+
 '2015 FUGO Asger Roed-Åstrøm\n'+
 '2015 FUIL Sille Eline Piilgard Andersen\n'+
