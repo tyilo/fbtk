@@ -13,12 +13,12 @@ Lavet af [Mathias Rav](https://github.com/Mortal).
 
 ### FireFox:
 
-* Installer [Scriptish][scriptish]
+* Installer [Greasemonkey][gm]
 * Genstart Firefox
-* Installer [fbtk][install] i Scriptish
+* Installer [fbtk][install] i Greasemonkey
 
 [tm]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
-[scriptish]: https://addons.mozilla.org/en-US/firefox/addon/scriptish/
+[gm]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
 [install]: https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 
 ## Indstillinger
