@@ -8,11 +8,15 @@ Lavet af [Mathias Rav](https://github.com/Mortal).
 
 ### Google Chrome:
 
-* Installer [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-* Installer [fbtk](https://raw.githubusercontent.com/Tyilo/fbtk/master/fbtk.user.js) i Tampermonkey
+* Installer [Tampermonkey][tm]
+* Installer [fbtk][install] i Tampermonkey
 
 ### FireFox:
 
-* Installer [Scriptish](https://addons.mozilla.org/en-US/firefox/addon/scriptish/)
+* Installer [Scriptish][scriptish]
 * Genstart Firefox
-* Installer [fbtk](https://raw.githubusercontent.com/Tyilo/fbtk/master/fbtk.user.js) i Scriptish
+* Installer [fbtk][install] i Scriptish
+
+[tm]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+[scriptish]: https://addons.mozilla.org/en-US/firefox/addon/scriptish/
+[install]: https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js

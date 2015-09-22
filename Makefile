@@ -1,5 +1,6 @@
 all:
-	@cat script.js grafik.js navne.js init.js > fbtk.user.js
+	@mkdir -p build
+	@cat script.js grafik.js navne.js init.js > build/fbtk.user.js
 
 clean:
-	@rm -f fbtk.user.js
+	@rm -rf build
