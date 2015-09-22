@@ -464,7 +464,7 @@ function tk_keypress(e) {
 		window.TKsetgf(gf+1);
 	else if (cc == 42) // asterisk
 		toggle_fbtk();
-	else if (cc == 47) // slash
+	else if (cc == 33) // exclamation mark
 		toggle_fu_prefix();
 	else
 		return true;
