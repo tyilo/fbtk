@@ -1056,8 +1056,10 @@ add_aliases(
 '"CBM"        Christian Brandt Møller\n'+
 '"J-DAG"      Jacob Damgaard Jensen\n'+
 '"Jen_s"      Jens Kusk Block\n'+
-'"EFUIT"      Philip Tchernavskij\n'+
-'"GEFUIT"     Lauge Mølgaard Hoyer\n'+
+'"EFUIT"      Jonas Tranberg Sørensen\n'+
+//'"BEFUIT      Oliver Emil Harritslev Christensen\n'+
+'"GEFUIT"     Philip Tchernavskij\n'+
+'"BEFUIT"     Lauge Mølgaard Hoyer\n'+
 '"Have"       Martin Anker Have\n'+
 '"Vester"     Mikkel Bak Vester\n'+
 '"M3"         Morten Schaumburg\n'+
