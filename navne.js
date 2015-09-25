@@ -144,9 +144,9 @@ add_aliases(
 '"J-DAG"      Jacob Damgaard Jensen\n'+
 '"Jen_s"      Jens Kusk Block\n'+
 '"EFUIT"      Jonas Tranberg Sørensen\n'+
-//'"BEFUIT      Oliver Emil Harritslev Christensen\n'+
-'"GEFUIT"     Philip Tchernavskij\n'+
-'"BEFUIT"     Lauge Mølgaard Hoyer\n'+
+//'"GEFUIT      Oliver Emil Harritslev Christensen\n'+
+'"BEFUIT"     Philip Tchernavskij\n'+
+'"OEFUIT"     Lauge Mølgaard Hoyer\n'+
 '"Have"       Martin Anker Have\n'+
 '"Vester"     Mikkel Bak Vester\n'+
 '"M3"         Morten Schaumburg\n'+
