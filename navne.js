@@ -164,5 +164,6 @@ add_aliases(
 '"Brøl"       Morten Grud Rasmussen\n'+
 '"Stive-Anna" Anna Sejersen Riis\n'+
 '"Ålen"       Frederik Brinck Truelsen\n'+
+'"Sovs"       Camilla Grevy\n'+
 ''
 );
