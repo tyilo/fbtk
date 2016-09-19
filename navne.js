@@ -79,6 +79,14 @@ add_aliases(
 '2015 SEKR Janne Højmark Mønster\n'+
 '2015 VC   Lone Koed\n'+
 '2015 VC   Lone Koed Nielsen\n'+
+'2016 CERM William Heyman\n'+
+'2016 FORM Frederik Jerløv\n'+
+'2016 INKA Halvor Høen Hval\n'+
+'2016 KASS Emma Hillgaard\n'+
+'2016 NF   Martin Aakjær Jørgensen\n'+
+'2016 PR   Katrine Alice Glasscock\n'+
+'2016 SEKR Anne Tarp\n'+
+'2016 VC   Hans Christian Tankred\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -102,7 +110,7 @@ add_aliases(
 '2011 FUIØ Mathilde Biørn Madsen\n'+
 '2011 FULA Camilla Skree Sørensen\n'+
 '2011 FUNU Andreas Bendix Nuppenau\n'+
-'2011 FURI Frederik Jerløv\n'+
+//'2011 FURI Frederik Jerløv\n'+
 '2012 FULI Line Bjerg Sørensen\n'+
 '2012 FULS Sara Poulsen\n'+
 '2012 FUMO Marianne Ostenfeldt Mortensen\n'+
@@ -113,8 +121,8 @@ add_aliases(
 '2013 FUSE Mie Christine Wilhelmsen\n'+
 '2013 FUTN Anja T Nielsen\n'+
 '2013 FUUS Rasmus Korsgaard Kjeldgaard\n'+
-'2014 FUAT Anne Kristine Tarp\n'+
-'2014 FUAT Anne Tarp\n'+
+//'2014 FUAT Anne Kristine Tarp\n'+
+//'2014 FUAT Anne Tarp\n'+
 '2014 FUIS Astrid Christiansen\n'+
 '2014 FUIK Frederik Riis Nielsen\n'+
 '2014 FUFF Helle Weinkouff Petersen\n'+
@@ -123,12 +131,12 @@ add_aliases(
 '2014 FUON Jonas Joachim Junker Zarling\n'+
 '2014 FUON Jonas Zarling\n'+
 '2014 FUSØ Søren Kenneth Højgaard Sørensen\n'+
-'2014 FUWI William Heyman Krill\n'+
-'2014 FUWI William Heyman\n'+
-'2015 FUAK Martin Aakjær Jørgensen\n'+
+//'2014 FUWI William Heyman Krill\n'+
+//'2014 FUWI William Heyman\n'+
+//'2015 FUAK Martin Aakjær Jørgensen\n'+
 '2015 FUAN Per Næsby Høgfeldt\n'+
 '2015 FUAN Per Høgfeldt\n'+
-'2015 FUGL Katrine Alice Glasscock\n'+
+//'2015 FUGL Katrine Alice Glasscock\n'+
 '2015 FUGO Asger Roed-Åstrøm\n'+
 '2015 FUIL Sille Eline Piilgard Andersen\n'+
 '2015 FUIL Sille P. Andresen\n'+
