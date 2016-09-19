@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.1
+// @version      0.3.2
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1060,6 +1060,22 @@ add_aliases(
 '2015 FUSJ Kirstine Friis Jensen\n'+
 '2015 FUTØ Marcus Høgsholt Nilson\n'+
 '2015 FUVE Thomas Skovlund Hansen\n'+
+'2016 FUYE Ida Meyer Granum\n'+
+'2016 FUKS Sarah Eckholdt Jensen\n'+
+'2016 FUKS Sarah Eckholdt\n'+
+'2016 FUJI Julie Thiim Gadeberg\n'+
+'2016 FUJI Julie Gadeberg\n'+
+'2016 FULI Tessa Cecilia Broeders\n'+
+'2016 FULI Tessa Broeders\n'+
+'2016 FUKI Rasmus Kimose Hvid Nielsen\n'+
+'2016 FUAN Jesper Brink Andersen\n'+
+'2016 FUAN Jesper Brink\n'+
+'2016 FUBØ Mathias Bøjlesen Bertelsen\n'+
+'2016 FUBØ Mathias Bertelsen\n'+
+'2016 FUBL Jacob Bech-Larsen\n'+
+'2016 FULK Jonas Folke Nielsen\n'+
+'2016 FUIV Nichlas Nordestgaard Vingtoft\n'+
+'2016 FUIV Nichlas Vingtoft\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
