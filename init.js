@@ -1,7 +1,7 @@
 var enabled = true;
 if (window.GM_getValue) {
-  window['TKconfig']['FUprefix'] = GM_getValue('FUprefix', false);
-  window['TKconfig']['gf'] = GM_getValue('gf', 2016);
+  window['TKconfig']['FUprefix'] = GM_getValue('FUprefix', window['TKconfig']['FUprefix']);
+  window['TKconfig']['gf'] = GM_getValue('gf', window['TKconfig']['gf']);
   enabled = GM_getValue('enabled', true);
 }
 
