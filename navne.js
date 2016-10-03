@@ -42,7 +42,7 @@ add_aliases(
 '2010 SEKR Maria Kragelund\n'+
 '2010 VC   Morten Rasmussen\n'+
 '2011 CERM Sabrina Tang Christensen\n'+
-'2011 FORM Jakob Schultz-Nielsen\n'+
+'2011 FORM Jakob Schultz-Falk\n'+
 '2011 KASS Britt Videbæk Fredsgaard\n'+
 '2011 NF   Kasper Monrad\n'+
 '2011 PR   Marie Kirkegaard\n'+
