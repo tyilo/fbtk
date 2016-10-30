@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.4
+// @version      0.3.5
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1082,10 +1082,11 @@ add_aliases(
 '"CBM"        Christian Brandt Møller\n'+
 '"J-DAG"      Jacob Damgaard Jensen\n'+
 '"Jen_s"      Jens Kusk Block\n'+
-'"EFUIT"      Jonas Tranberg Sørensen\n'+
-//'"GEFUIT      Oliver Emil Harritslev Christensen\n'+
-'"BEFUIT"     Philip Tchernavskij\n'+
-'"OEFUIT"     Lauge Mølgaard Hoyer\n'+
+'"EFUIT"      Johannes Jensen\n'+
+'"GEFUIT"     Jonas Tranberg Sørensen\n'+
+//'"BEFUIT      Oliver Emil Harritslev Christensen\n'+
+'"OEFUIT"     Philip Tchernavskij\n'+
+'"TOEFUIT"    Lauge Mølgaard Hoyer\n'+
 '"Have"       Martin Anker Have\n'+
 '"Vester"     Mikkel Bak Vester\n'+
 '"M3"         Morten Schaumburg\n'+
