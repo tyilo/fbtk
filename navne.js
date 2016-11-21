@@ -99,7 +99,7 @@ add_aliases(
 '2009 FUBS Sandra Pedersen\n'+
 '2009 FUBS Sandra Bleuenn Picard Svejgaard Pedersen\n'+
 '2009 FUBS Sandra Bleuenn Picard S. Pedersen\n'+
-'2009 FUHN Mette Hansen\n'+
+'2009 FUHN Mette Tranberg Hansen\n'+
 '2009 FUØL Carina Kjeldahl Møller\n'+
 '2009 FUØR Signe Grønborg\n'+
 '2010 FUAN Andreas Nikolai Kyed Bovin\n'+
@@ -189,5 +189,8 @@ add_aliases(
 '"Brøl"       Morten Grud Rasmussen\n'+
 '"Stive-Anna" Anna Sejersen Riis\n'+
 '"Ålen"       Frederik Brinck Truelsen\n'+
+'"Blomsterpenis" Morten Stockmarr Liljegren\n'+
+'"Smør"       Kenneth Lund Kjærgaard\n'+
+'"Kalus"      Klaus Olesen\n'+
 ''
 );

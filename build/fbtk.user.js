@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.5
+// @version      0.3.6
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1014,7 +1014,7 @@ add_aliases(
 '2009 FUBS Sandra Pedersen\n'+
 '2009 FUBS Sandra Bleuenn Picard Svejgaard Pedersen\n'+
 '2009 FUBS Sandra Bleuenn Picard S. Pedersen\n'+
-'2009 FUHN Mette Hansen\n'+
+'2009 FUHN Mette Tranberg Hansen\n'+
 '2009 FUØL Carina Kjeldahl Møller\n'+
 '2009 FUØR Signe Grønborg\n'+
 '2010 FUAN Andreas Nikolai Kyed Bovin\n'+
@@ -1104,6 +1104,9 @@ add_aliases(
 '"Brøl"       Morten Grud Rasmussen\n'+
 '"Stive-Anna" Anna Sejersen Riis\n'+
 '"Ålen"       Frederik Brinck Truelsen\n'+
+'"Blomsterpenis" Morten Stockmarr Liljegren\n'+
+'"Smør"       Kenneth Lund Kjærgaard\n'+
+'"Kalus"      Klaus Olesen\n'+
 ''
 );
 var enabled = true;
