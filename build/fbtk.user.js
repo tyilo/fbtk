@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.7
+// @version      0.3.8
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1002,7 +1002,7 @@ add_aliases(
 '2016 PR   Katrine Alice Glasscock\n'+
 '2016 SEKR Anne Tarp\n'+
 '2016 VC   Hans Christian Tankred\n'+
-'2017 CERM Nikolaj Færgemand\n'+
+'2017 CERM Nikolaj Færgemand Andersen\n'+
 '2017 FORM Sofie Filskov Hermansen\n'+
 '2017 INKA Klaus Skovgaard Olesen\n'+
 '2017 INKA Klaus Olesen\n'+

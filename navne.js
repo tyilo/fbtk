@@ -87,7 +87,7 @@ add_aliases(
 '2016 PR   Katrine Alice Glasscock\n'+
 '2016 SEKR Anne Tarp\n'+
 '2016 VC   Hans Christian Tankred\n'+
-'2017 CERM Nikolaj Færgemand\n'+
+'2017 CERM Nikolaj Færgemand Andersen\n'+
 '2017 FORM Sofie Filskov Hermansen\n'+
 '2017 INKA Klaus Skovgaard Olesen\n'+
 '2017 INKA Klaus Olesen\n'+
