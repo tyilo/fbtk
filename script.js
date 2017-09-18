@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.6
+// @version      0.3.7
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -28,7 +28,7 @@ window['TKconfig'] = ({
 	// Whether exponents should be written as superscripts
 	'eksponent': true,
 	// From which year prefixes are computed
-	'gf': 2016,
+	'gf': 2017,
 	// True if we should write a prefix in front of a FU title
 	'FUprefix': false
 });
