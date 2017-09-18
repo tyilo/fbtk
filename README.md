@@ -2,7 +2,7 @@
 
 Userscript til at til at ændre folks navne på Facebok til hvad de er kendt som på TÅGEKAMMERET.
 
-Lavet af [Mathias Rav](https://github.com/Mortal).
+Original version lavet af [Mathias Rav](https://github.com/Mortal).
 
 ## Installation
 

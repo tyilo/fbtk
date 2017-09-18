@@ -2,7 +2,7 @@
 // encoding test: rød grød med fløde æ ø å
 // ==UserScript==
 // @name         TK-navne på Facebook
-// @author       Mathias Rav
+// @author       Asger Hautop Drewsen
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
