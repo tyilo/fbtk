@@ -87,6 +87,18 @@ add_aliases(
 '2016 PR   Katrine Alice Glasscock\n'+
 '2016 SEKR Anne Tarp\n'+
 '2016 VC   Hans Christian Tankred\n'+
+'2017 CERM Nikolaj Færgemand\n'+
+'2017 FORM Sofie Filskov Hermansen\n'+
+'2017 INKA Klaus Skovgaard Olesen\n'+
+'2017 INKA Klaus Olesen\n'+
+'2017 KASS Magnus Graf Skou\n'+
+'2017 KASS Magnus Graf\n'+
+'2017 NF   Julie Thiim Gadeberg\n'+
+'2017 NF   Julie Gadeberg\n'+
+'2017 PR   Kirstine Friis Jensen\n'+
+'2017 SEKR Per Næsby Høgfeldt\n'+
+'2017 SEKR Per Høgfeldt\n'+
+'2017 VC   Mark Lykke Vinther\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -134,22 +146,22 @@ add_aliases(
 //'2014 FUWI William Heyman Krill\n'+
 //'2014 FUWI William Heyman\n'+
 //'2015 FUAK Martin Aakjær Jørgensen\n'+
-'2015 FUAN Per Næsby Høgfeldt\n'+
-'2015 FUAN Per Høgfeldt\n'+
+//'2015 FUAN Per Næsby Høgfeldt\n'+
+//'2015 FUAN Per Høgfeldt\n'+
 //'2015 FUGL Katrine Alice Glasscock\n'+
 '2015 FUGO Asger Roed-Åstrøm\n'+
 '2015 FUIL Sille Eline Piilgard Andersen\n'+
 '2015 FUIL Sille P. Andresen\n'+
 '2015 FUNN Anna Mie Hansen\n'+
 '2015 FUPI Freja Frederikke Pinderup\n'+
-'2015 FUSJ Kirstine Friis Jensen\n'+
+//'2015 FUSJ Kirstine Friis Jensen\n'+
 '2015 FUTØ Marcus Høgsholt Nilson\n'+
 '2015 FUVE Thomas Skovlund Hansen\n'+
 '2016 FUYE Ida Meyer Granum\n'+
 '2016 FUKS Sarah Eckholdt Jensen\n'+
 '2016 FUKS Sarah Eckholdt\n'+
-'2016 FUJI Julie Thiim Gadeberg\n'+
-'2016 FUJI Julie Gadeberg\n'+
+//'2016 FUJI Julie Thiim Gadeberg\n'+
+//'2016 FUJI Julie Gadeberg\n'+
 '2016 FULI Tessa Cecilia Broeders\n'+
 '2016 FULI Tessa Broeders\n'+
 '2016 FUKI Rasmus Kimose Hvid Nielsen\n'+
@@ -161,6 +173,17 @@ add_aliases(
 '2016 FULK Jonas Folke Nielsen\n'+
 '2016 FUIV Nichlas Nordestgaard Vingtoft\n'+
 '2016 FUIV Nichlas Vingtoft\n'+
+'2017 FUAN Christian Haag Frederiksen\n'+
+'2017 FUDL Ida Rose Nielsen\n'+
+'2017 FUDO Søren István Adorján Dyhr\n'+
+'2017 FUFI Signe Fischer Lambertsen\n'+
+'2017 FULA Bjørg Glad\n'+
+'2017 FULZ Luna Lynge Malzard\n'+
+'2017 FUMI Martin Mikkelsen\n'+
+'2017 FUOÜ Rolf Jürgensen Aaskov\n'+
+'2017 FURE Kathrine Thorsøe\n'+
+'2017 FUTR Viktor Hjorth Miltersen\n'+
+'2017 FUTR Viktor Miltersen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
@@ -191,6 +214,6 @@ add_aliases(
 '"Ålen"       Frederik Brinck Truelsen\n'+
 '"Blomsterpenis" Morten Stockmarr Liljegren\n'+
 '"Smør"       Kenneth Lund Kjærgaard\n'+
-'"Kalus"      Klaus Olesen\n'+
+//'"Kalus"      Klaus Olesen\n'+
 ''
 );
