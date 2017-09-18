@@ -8,17 +8,15 @@ Lavet af [Mathias Rav](https://github.com/Mortal).
 
 ### Google Chrome:
 
-* Installer [Tampermonkey][tm]
-* Installer [fbtk][install] i Tampermonkey
+* Installer [Violentmonkey][vm]
+* Installer [fbtk][install] i Violentmonkey
 
 ### FireFox:
 
-* Installer [Greasemonkey][gm]
-* Genstart Firefox
-* Installer [fbtk][install] i Greasemonkey
+* Installer [Violentmonkey][vm]
+* Installer [fbtk][install] i Violentmonkey
 
-[tm]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
-[gm]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
+[vm]: https://violentmonkey.github.io/get-it/
 [install]: https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 
 ## Indstillinger
