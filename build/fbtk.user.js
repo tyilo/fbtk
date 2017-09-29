@@ -368,9 +368,9 @@ function search_for_names(n) {
 		}
 	}
 	if (first) {
-		console.log("Nothing was changed");
+		//console.log("Nothing was changed");
 	} else {
-		console.log("Something was changed");
+		//console.log("Something was changed");
 	}
 }
 
