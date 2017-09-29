@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.8
+// @version      0.4.0
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -33,12 +33,13 @@ window['TKconfig'] = ({
 	'FUprefix': false
 });
 
+var EFUITcount = -1;
+
 function TK(key) {
 	return window['TKconfig'][key];
 }
 
-function year_prefix(year) {
-	year = TK('gf') - year;
+function tk_prefix(year) {
 	var prefixes = ['', 'G', 'B', 'O', 'TO'];
 	if (0 <= year && year < prefixes.length) {
 		return prefixes[year];
@@ -57,6 +58,10 @@ function year_prefix(year) {
 		exponentString = exponent;
 	}
 	return negative ? 'K'+exponentString : 'T'+exponentString+'O';
+}
+
+function year_prefix(year) {
+	return tk_prefix(TK('gf') - year);
 }
 
 function title_bling(title) {
@@ -168,9 +173,13 @@ compute_alias_regexp();
 function parse_alias(line) {
 	var prefixed = /^(\d+) +([^ ]+) +(.*)/.exec(line);
 	if (prefixed) {
-		return {'name': prefixed[3],
+		var o = {'name': prefixed[3],
 			'year': parseInt(prefixed[1]),
 			'title': prefixed[2]};
+		if (o['title'] == 'EFUIT') {
+			EFUITcount = Math.max(EFUITcount, o['year']);
+		}
+		return o;
 	}
 	var hangaround = /^"([^"]*)" +(.*)/.exec(line);
 	if (hangaround) {
@@ -203,17 +212,25 @@ function make_title(o) {
 	if ('year' in o) {
 		var year = o['year'];
 		var addPrefix = false;
+		var efuit = false;
 		if (title == 'FUAN') {
 			addPrefix = true;
 		} else if (title == 'FU') {
 			// Unnamed FU (e.g. KFU); always show prefix
 			addPrefix = true;
+		} else if (title == 'EFUIT') {
+			// EFUIT title
+			addPrefix = false;
+			efuit = true;
 		} else if (title.substring(0, 2) != 'FU') {
 			// BEST title
 			addPrefix = true;
 		} else {
 			// Ordinary FU
 			addPrefix = TK('FUprefix');
+		}
+		if (efuit) {
+			fancy = tk_prefix(EFUITcount - year) + fancy;
 		}
 		if (addPrefix) {
 			fancy = year_prefix(year) + fancy;
@@ -1099,17 +1116,18 @@ add_aliases(
 '2017 FURE Kathrine Thorsøe\n'+
 '2017 FUTR Viktor Hjorth Miltersen\n'+
 '2017 FUTR Viktor Miltersen\n'+
+'1 EFUIT Lauge Mølgaard Hoyer\n'+
+'2 EFUIT Philip Tchernavskij\n'+
+//'3 EFUIT Oliver Emil Harritslev Christensen\n'+
+'4 EFUIT Jonas Tranberg Sørensen\n'+
+'5 EFUIT Johannes Jensen\n'+
+'6 EFUIT Mathias Old Jensen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
 '"CBM"        Christian Brandt Møller\n'+
 '"J-DAG"      Jacob Damgaard Jensen\n'+
 '"Jen_s"      Jens Kusk Block\n'+
-'"EFUIT"      Johannes Jensen\n'+
-'"GEFUIT"     Jonas Tranberg Sørensen\n'+
-//'"BEFUIT      Oliver Emil Harritslev Christensen\n'+
-'"OEFUIT"     Philip Tchernavskij\n'+
-'"TOEFUIT"    Lauge Mølgaard Hoyer\n'+
 '"Have"       Martin Anker Have\n'+
 '"Vester"     Mikkel Bak Vester\n'+
 '"M3"         Morten Schaumburg\n'+

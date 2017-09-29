@@ -184,17 +184,18 @@ add_aliases(
 '2017 FURE Kathrine Thorsøe\n'+
 '2017 FUTR Viktor Hjorth Miltersen\n'+
 '2017 FUTR Viktor Miltersen\n'+
+'1 EFUIT Lauge Mølgaard Hoyer\n'+
+'2 EFUIT Philip Tchernavskij\n'+
+//'3 EFUIT Oliver Emil Harritslev Christensen\n'+
+'4 EFUIT Jonas Tranberg Sørensen\n'+
+'5 EFUIT Johannes Jensen\n'+
+'6 EFUIT Mathias Old Jensen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
 '"CBM"        Christian Brandt Møller\n'+
 '"J-DAG"      Jacob Damgaard Jensen\n'+
 '"Jen_s"      Jens Kusk Block\n'+
-'"EFUIT"      Johannes Jensen\n'+
-'"GEFUIT"     Jonas Tranberg Sørensen\n'+
-//'"BEFUIT      Oliver Emil Harritslev Christensen\n'+
-'"OEFUIT"     Philip Tchernavskij\n'+
-'"TOEFUIT"    Lauge Mølgaard Hoyer\n'+
 '"Have"       Martin Anker Have\n'+
 '"Vester"     Mikkel Bak Vester\n'+
 '"M3"         Morten Schaumburg\n'+

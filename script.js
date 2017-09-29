@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.3.8
+// @version      0.4.0
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -33,12 +33,13 @@ window['TKconfig'] = ({
 	'FUprefix': false
 });
 
+var EFUITcount = -1;
+
 function TK(key) {
 	return window['TKconfig'][key];
 }
 
-function year_prefix(year) {
-	year = TK('gf') - year;
+function tk_prefix(year) {
 	var prefixes = ['', 'G', 'B', 'O', 'TO'];
 	if (0 <= year && year < prefixes.length) {
 		return prefixes[year];
@@ -57,6 +58,10 @@ function year_prefix(year) {
 		exponentString = exponent;
 	}
 	return negative ? 'K'+exponentString : 'T'+exponentString+'O';
+}
+
+function year_prefix(year) {
+	return tk_prefix(TK('gf') - year);
 }
 
 function title_bling(title) {
@@ -168,9 +173,13 @@ compute_alias_regexp();
 function parse_alias(line) {
 	var prefixed = /^(\d+) +([^ ]+) +(.*)/.exec(line);
 	if (prefixed) {
-		return {'name': prefixed[3],
+		var o = {'name': prefixed[3],
 			'year': parseInt(prefixed[1]),
 			'title': prefixed[2]};
+		if (o['title'] == 'EFUIT') {
+			EFUITcount = Math.max(EFUITcount, o['year']);
+		}
+		return o;
 	}
 	var hangaround = /^"([^"]*)" +(.*)/.exec(line);
 	if (hangaround) {
@@ -203,17 +212,25 @@ function make_title(o) {
 	if ('year' in o) {
 		var year = o['year'];
 		var addPrefix = false;
+		var efuit = false;
 		if (title == 'FUAN') {
 			addPrefix = true;
 		} else if (title == 'FU') {
 			// Unnamed FU (e.g. KFU); always show prefix
 			addPrefix = true;
+		} else if (title == 'EFUIT') {
+			// EFUIT title
+			addPrefix = false;
+			efuit = true;
 		} else if (title.substring(0, 2) != 'FU') {
 			// BEST title
 			addPrefix = true;
 		} else {
 			// Ordinary FU
 			addPrefix = TK('FUprefix');
+		}
+		if (efuit) {
+			fancy = tk_prefix(EFUITcount - year) + fancy;
 		}
 		if (addPrefix) {
 			fancy = year_prefix(year) + fancy;
