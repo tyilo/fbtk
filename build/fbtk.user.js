@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.0
+// @version      0.4.1
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -416,7 +416,9 @@ function activate_fbtk() {
 		}
 		//depths.sort();
 		//console.log("Node depths ("+depths.join(', ')+") combined to depth "+node_depth(p));
-		search_for_names(p);
+		if (p) {
+			search_for_names(p);
+		}
 	});
 
 	window.theTKTitleObserver.observe(document.body, {
