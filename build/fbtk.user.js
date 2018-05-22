@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.1
+// @version      0.4.2
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1032,7 +1032,7 @@ add_aliases(
 '2017 PR   Kirstine Friis Jensen\n'+
 '2017 SEKR Per Næsby Høgfeldt\n'+
 '2017 SEKR Per Høgfeldt\n'+
-'2017 VC   Mark Lykke Vinther\n'+
+'2017 VC   Mark Lykke Winther\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -1150,6 +1150,7 @@ add_aliases(
 '"Blomsterpenis" Morten Stockmarr Liljegren\n'+
 '"Smør"       Kenneth Lund Kjærgaard\n'+
 //'"Kalus"      Klaus Olesen\n'+
+'"Ion" Rune Naujokat Troelsgaard Thorsen\n'+
 ''
 );
 var enabled = true;
