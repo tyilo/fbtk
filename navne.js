@@ -73,7 +73,7 @@ add_aliases(
 '2015 CERM Andreas Bock Michelsen\n'+
 '2015 FORM Christian Bonar Zeuthen\n'+
 '2015 INKA Oliver Emil Harritslev Christensen\n'+
-'2015 KASS Amalie Louise Stokholm\n'+
+'2015 KASS Amalie Stokholm\n'+
 '2015 NF   Anne Dorte Rafn Spangsberg\n'+
 '2015 PR   Liv Medum Bundgaard\n'+
 '2015 SEKR Janne Højmark Mønster\n'+
@@ -127,8 +127,8 @@ add_aliases(
 '2012 FUMO Marianne Ostenfeldt Mortensen\n'+
 '2012 FUMY Rasmus Thygesen\n'+
 '2013 FUAN Dennis Krongaard Mikkelsen\n'+
-'2013 FUBI Benedikte Sofie Werk\n'+
-'2013 FUGR Asger Agergaard\n'+
+'2013 FUBI Benedikte Sofie Dalhoff Werk\n'+
+'2013 FUGR Asger Holm Agergaard\n'+
 '2013 FUSE Mie Christine Wilhelmsen\n'+
 '2013 FUTN Anja T Nielsen\n'+
 '2013 FUUS Rasmus Korsgaard Kjeldgaard\n'+
