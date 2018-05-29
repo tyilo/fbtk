@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.2
+// @version      0.4.3
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1011,8 +1011,7 @@ add_aliases(
 '2015 NF   Anne Dorte Rafn Spangsberg\n'+
 '2015 PR   Liv Medum Bundgaard\n'+
 '2015 SEKR Janne Højmark Mønster\n'+
-'2015 VC   Lone Koed\n'+
-'2015 VC   Lone Koed Nielsen\n'+
+'2015 VC   Lone Koed Thorhauge\n'+
 '2016 CERM William Heyman\n'+
 '2016 FORM Frederik Jerløv\n'+
 '2016 INKA Halvor Høen Hval\n'+

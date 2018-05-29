@@ -77,8 +77,7 @@ add_aliases(
 '2015 NF   Anne Dorte Rafn Spangsberg\n'+
 '2015 PR   Liv Medum Bundgaard\n'+
 '2015 SEKR Janne Højmark Mønster\n'+
-'2015 VC   Lone Koed\n'+
-'2015 VC   Lone Koed Nielsen\n'+
+'2015 VC   Lone Koed Thorhauge\n'+
 '2016 CERM William Heyman\n'+
 '2016 FORM Frederik Jerløv\n'+
 '2016 INKA Halvor Høen Hval\n'+
