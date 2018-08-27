@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.4
+// @version      0.4.5
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -127,7 +127,7 @@ function add_alias(source, destination) {
 		  .replace(/Ø/g, '\xd8')
 		  .replace(/Å/g, '\xc5'));
 
-	aliases.targets.push(source);
+	aliases.targets.push('\\b' + source + '\\b');
 	aliases.replacements[source] = destination;
 }
 
