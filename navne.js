@@ -189,6 +189,7 @@ add_aliases(
 '4 EFUIT Jonas Tranberg Sørensen\n'+
 '5 EFUIT Johannes Jensen\n'+
 '6 EFUIT Mathias Old Jensen\n'+
+'7 EFUIT Mathias Ravn Tversted\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
