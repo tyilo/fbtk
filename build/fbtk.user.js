@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.5
+// @version      0.4.6
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1123,6 +1123,7 @@ add_aliases(
 '4 EFUIT Jonas Tranberg Sørensen\n'+
 '5 EFUIT Johannes Jensen\n'+
 '6 EFUIT Mathias Old Jensen\n'+
+'7 EFUIT Mathias Ravn Tversted\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
