@@ -98,6 +98,14 @@ add_aliases(
 '2017 SEKR Per Næsby Høgfeldt\n'+
 '2017 SEKR Per Høgfeldt\n'+
 '2017 VC   Mark Lykke Winther\n'+
+'2018 CERM Fredrik Egil Helsengreen\n'+
+'2018 FORM Thomas Skovlund Hansen\n'+
+'2018 INKA Jens Christian Jørgensen\n'+
+'2018 KA$$ Johanne Tankred\n'+
+'2018 NF   Søren István Adorján Dyhr\n'+
+'2018 PR   Ida Meyer Granum\n'+
+'2018 SEKR Luna Lynge Malzard\n'+
+'2018 VC   Sille P. Andresen\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -149,14 +157,14 @@ add_aliases(
 //'2015 FUAN Per Høgfeldt\n'+
 //'2015 FUGL Katrine Alice Glasscock\n'+
 '2015 FUGO Asger Roed-Åstrøm\n'+
-'2015 FUIL Sille Eline Piilgard Andersen\n'+
-'2015 FUIL Sille P. Andresen\n'+
+//'2015 FUIL Sille Eline Piilgard Andersen\n'+
+//'2015 FUIL Sille P. Andresen\n'+
 '2015 FUNN Anna Mie Hansen\n'+
 '2015 FUPI Freja Frederikke Pinderup\n'+
 //'2015 FUSJ Kirstine Friis Jensen\n'+
 '2015 FUTØ Marcus Høgsholt Nilson\n'+
-'2015 FUVE Thomas Skovlund Hansen\n'+
-'2016 FUYE Ida Meyer Granum\n'+
+//'2015 FUVE Thomas Skovlund Hansen\n'+
+//'2016 FUYE Ida Meyer Granum\n'+
 '2016 FUKS Sarah Eckholdt Jensen\n'+
 '2016 FUKS Sarah Eckholdt\n'+
 //'2016 FUJI Julie Thiim Gadeberg\n'+
@@ -174,10 +182,10 @@ add_aliases(
 '2016 FUIV Nichlas Vingtoft\n'+
 '2017 FUAN Christian Haag Frederiksen\n'+
 '2017 FUDL Ida Rose Nielsen\n'+
-'2017 FUDO Søren István Adorján Dyhr\n'+
+//'2017 FUDO Søren István Adorján Dyhr\n'+
 '2017 FUFI Signe Fischer Lambertsen\n'+
 '2017 FULA Bjørg Glad\n'+
-'2017 FULZ Luna Lynge Malzard\n'+
+//'2017 FULZ Luna Lynge Malzard\n'+
 '2017 FUMI Martin Mikkelsen\n'+
 '2017 FUOÜ Rolf Jürgensen Aaskov\n'+
 '2017 FURE Kathrine Thorsøe\n'+
