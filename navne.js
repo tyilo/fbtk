@@ -235,5 +235,15 @@ add_aliases(
 '"Smør"       Kenneth Lund Kjærgaard\n'+
 //'"Kalus"      Klaus Olesen\n'+
 '"Ion" Rune Naujokat Troelsgaard Thorsen\n'+
+'2018 FUAN Mathias K. Nielsen\n'+
+'2018 FUEA Linnea Skafte\n'+
+'2018 FUES Jens Trolle\n'+
+'2018 FUFO Morten Hulbæk Fog\n'+
+'2018 FUIB Sofie Behrmann\n'+
+'2018 FUNØ Katrine Høholt Kaspersen\n'+
+'2018 FURA Maria Askholm Nielsen\n'+
+'2018 FURO Frederik Kobemis Andersen\n'+
+'2018 FUUF Albert Freud Abildgaard\n'+
+'2018 FUYO Maja Dybboe\n'+
 ''
 );
