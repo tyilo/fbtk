@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.9
+// @version      0.4.10
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -247,10 +247,6 @@ function insert_alias(o) {
 		var str = make_title(o);
 		var prefixSVG = o['title'] ? (/^FU/.exec(o['title']) ? 'FU' : o['title']) : (/^(T[0-9]*O|[GBO]?)EFUIT/.exec(o['nickname']) ? 'EFUIT' : '');
 		if (o['title'] == 'KASS' && o['year'] < 2014) {
-			prefixSVG = 'INKA';
-		}
-		if (o['title'] == 'KASS') {
-			// Until we get the new KASS logo.
 			prefixSVG = 'INKA';
 		}
 
