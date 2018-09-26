@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.8
+// @version      0.4.9
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -1125,6 +1125,16 @@ add_aliases(
 '2017 FURE Kathrine Thorsøe\n'+
 '2017 FUTR Viktor Hjorth Miltersen\n'+
 '2017 FUTR Viktor Miltersen\n'+
+'2018 FUAN Mathias K. Nielsen\n'+
+'2018 FUEA Linnea Skafte\n'+
+'2018 FUES Jens Trolle\n'+
+'2018 FUFO Morten Hulbæk Fog\n'+
+'2018 FUIB Sofie Behrmann\n'+
+'2018 FUNØ Katrine Høholt Kaspersen\n'+
+'2018 FURA Maria Askholm Nielsen\n'+
+'2018 FURO Frederik Kobemis Andersen\n'+
+'2018 FUUF Albert Freud Abildgaard\n'+
+'2018 FUYO Maja Dybboe\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
 //'3 EFUIT Oliver Emil Harritslev Christensen\n'+

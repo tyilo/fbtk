@@ -191,6 +191,16 @@ add_aliases(
 '2017 FURE Kathrine Thorsøe\n'+
 '2017 FUTR Viktor Hjorth Miltersen\n'+
 '2017 FUTR Viktor Miltersen\n'+
+'2018 FUAN Mathias K. Nielsen\n'+
+'2018 FUEA Linnea Skafte\n'+
+'2018 FUES Jens Trolle\n'+
+'2018 FUFO Morten Hulbæk Fog\n'+
+'2018 FUIB Sofie Behrmann\n'+
+'2018 FUNØ Katrine Høholt Kaspersen\n'+
+'2018 FURA Maria Askholm Nielsen\n'+
+'2018 FURO Frederik Kobemis Andersen\n'+
+'2018 FUUF Albert Freud Abildgaard\n'+
+'2018 FUYO Maja Dybboe\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
 //'3 EFUIT Oliver Emil Harritslev Christensen\n'+
