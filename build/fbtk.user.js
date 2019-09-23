@@ -1038,6 +1038,16 @@ add_aliases(
 '2018 PR   Ida Meyer Granum\n'+
 '2018 SEKR Luna Lynge Malzard\n'+
 '2018 VC   Sille P. Andresen\n'+
+'2019 CERM Jesper Dam Knudgaard\n'+
+'2019 FORM Jacob Fjerbæk Olsen\n'+
+'2019 INKA Ida Rose Nielsen\n'+
+'2019 KA$$ Tessa Cecilia Broeders\n'+
+'2019 KA$$ Tessa Broeders\n'+
+'2019 NF   Johannes Jensen\n'+
+'2019 PR   Morten Hulbæk Fog\n'+
+'2019 SEKR Sarah Eckholdt Jensen\n'+
+'2019 SEKR Sarah Eckholdt\n'+
+'2019 VC   Jens Trolle\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -1097,12 +1107,12 @@ add_aliases(
 '2015 FUTØ Marcus Høgsholt Nilson\n'+
 //'2015 FUVE Thomas Skovlund Hansen\n'+
 //'2016 FUYE Ida Meyer Granum\n'+
-'2016 FUKS Sarah Eckholdt Jensen\n'+
-'2016 FUKS Sarah Eckholdt\n'+
+//'2016 FUKS Sarah Eckholdt Jensen\n'+
+//'2016 FUKS Sarah Eckholdt\n'+
 //'2016 FUJI Julie Thiim Gadeberg\n'+
 //'2016 FUJI Julie Gadeberg\n'+
-'2016 FULI Tessa Cecilia Broeders\n'+
-'2016 FULI Tessa Broeders\n'+
+//'2016 FULI Tessa Cecilia Broeders\n'+
+//'2016 FULI Tessa Broeders\n'+
 '2016 FUKI Rasmus Kimose Hvid Nielsen\n'+
 '2016 FUAN Jesper Brink Andersen\n'+
 '2016 FUAN Jesper Brink\n'+
@@ -1113,7 +1123,7 @@ add_aliases(
 '2016 FUIV Nichlas Nordestgaard Vingtoft\n'+
 '2016 FUIV Nichlas Vingtoft\n'+
 '2017 FUAN Christian Haag Frederiksen\n'+
-'2017 FUDL Ida Rose Nielsen\n'+
+//'2017 FUDL Ida Rose Nielsen\n'+
 //'2017 FUDO Søren István Adorján Dyhr\n'+
 '2017 FUFI Signe Fischer Lambertsen\n'+
 '2017 FULA Bjørg Glad\n'+
@@ -1125,21 +1135,32 @@ add_aliases(
 '2017 FUTR Viktor Miltersen\n'+
 '2018 FUAN Mathias K. Nielsen\n'+
 '2018 FUEA Linnea Skafte\n'+
-'2018 FUES Jens Trolle\n'+
-'2018 FUFO Morten Hulbæk Fog\n'+
+//'2018 FUES Jens Trolle\n'+
+//'2018 FUFO Morten Hulbæk Fog\n'+
 '2018 FUIB Sofie Behrmann\n'+
 '2018 FUNØ Katrine Høholt Kaspersen\n'+
 '2018 FURA Maria Askholm Nielsen\n'+
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
 '2018 FUYO Maja Dybboe\n'+
+'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
+'2019 FUDA Nikolaj Dahl Hansen\n'+
+'2019 FUHØ Christian Børsen Smedegaard\n'+
+'2019 FULE Jacob Birkeland Steenstrup\n'+
+'2019 FULR Toke Lindhard\n'+
+'2019 FUOM Mathilde Ørsted Toft\n'+
+'2019 FUSR Josephine Mai Scharf Andersen\n'+
+'2019 FUTE Mette Rydder\n'+
+'2019 FUTÜ Frederik Würtz Sørensen\n'+
+'2019 FUWA Agnete Bie Westphael\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
 //'3 EFUIT Oliver Emil Harritslev Christensen\n'+
 '4 EFUIT Jonas Tranberg Sørensen\n'+
-'5 EFUIT Johannes Jensen\n'+
+//'5 EFUIT Johannes Jensen\n'+
 '6 EFUIT Mathias Old Jensen\n'+
 '7 EFUIT Mathias Ravn Tversted\n'+
+'8 EFUIT Mikkel Wienberg Madsen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
