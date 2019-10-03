@@ -28,7 +28,7 @@ window['TKconfig'] = ({
 	// Whether exponents should be written as superscripts
 	'eksponent': true,
 	// From which year prefixes are computed
-	'gf': 2018,
+	'gf': 2019,
 	// True if we should write a prefix in front of a FU title
 	'FUprefix': false
 });
