@@ -232,11 +232,14 @@ add_aliases(
 '2019 FUTÜ Frederik Würtz Sørensen\n'+
 //'2019 FUWA Agnete Bie Westphael\n'+
 '2020 FUAN Jakob Lauritsen\n'+
+'2020 FUDI Freja Marie Dithmer Gam\n'+
 '2020 FUDI Freja Gam\n'+
 '2020 FUEI Lea Vibe Pedersen\n'+
+'2020 FUML Heidi Dueholm Lunde\n'+
 '2020 FUML Heidi Lunde\n'+
 '2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
 '2020 FUNÉ André Slot Kristensen\n'+
+'2020 FUNI Andrea Skadhede Skadhede\n'+
 '2020 FUNI Andrea Skadhede\n'+
 '2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
