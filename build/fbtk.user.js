@@ -1172,7 +1172,7 @@ add_aliases(
 '2020 FUMS Kurt Herlev Rasmussen\n'+
 '2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
 '2020 FUNÉ André Slot Kristensen\n'+
-'2020 FUNI Andrea Skadhede Skadhede\n'+
+'2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
 '2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
