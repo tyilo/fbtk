@@ -1169,13 +1169,13 @@ add_aliases(
 '2020 FUEI Lea Vibe Pedersen\n'+
 '2020 FUML Heidi Dueholm Lunde\n'+
 '2020 FUML Heidi Lunde\n'+
+'2020 FUMS Kurt Herlev Rasmussen\n'+
 '2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
 '2020 FUNÉ André Slot Kristensen\n'+
 '2020 FUNI Andrea Skadhede Skadhede\n'+
 '2020 FUNI Andrea Skadhede\n'+
 '2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
-'2020 FUMS Kurt Herlev Rasmussen\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
 //'3 EFUIT Oliver Emil Harritslev Christensen\n'+
