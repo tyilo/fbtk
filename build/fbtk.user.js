@@ -6,7 +6,7 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.4.11
+// @version      0.4.12
 // @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
@@ -28,7 +28,7 @@ window['TKconfig'] = ({
 	// Whether exponents should be written as superscripts
 	'eksponent': true,
 	// From which year prefixes are computed
-	'gf': 2018,
+	'gf': 2020,
 	// True if we should write a prefix in front of a FU title
 	'FUprefix': false
 });
@@ -1048,6 +1048,16 @@ add_aliases(
 '2019 SEKR Sarah Eckholdt Jensen\n'+
 '2019 SEKR Sarah Eckholdt\n'+
 '2019 VC   Jens Trolle\n'+
+'2020 CERM Agnete Bie Westphael\n'+
+'2020 FORM Maja Dybboe\n'+
+'2020 INKA Nichlas Nordestgaard Vingtoft\n'+
+'2020 INKA Nichlas Vingtoft\n'+
+'2020 KA$$ Lærke Niclasen\n'+
+'2020 NF   Mathias Ravn Tversted\n'+
+'2020 PR   Mathilde Ørsted Toft\n'+
+'2020 SEKR Mikala Mai Halbirk\n'+
+'2020 SEKR Mikala Halbirk\n'+
+'2020 VC   Simon Bølling Nordentoft\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -1120,8 +1130,8 @@ add_aliases(
 '2016 FUBØ Mathias Bertelsen\n'+
 '2016 FUBL Jacob Bech-Larsen\n'+
 '2016 FULK Jonas Folke Nielsen\n'+
-'2016 FUIV Nichlas Nordestgaard Vingtoft\n'+
-'2016 FUIV Nichlas Vingtoft\n'+
+//'2016 FUIV Nichlas Nordestgaard Vingtoft\n'+
+//'2016 FUIV Nichlas Vingtoft\n'+
 '2017 FUAN Christian Haag Frederiksen\n'+
 //'2017 FUDL Ida Rose Nielsen\n'+
 //'2017 FUDO Søren István Adorján Dyhr\n'+
@@ -1142,25 +1152,39 @@ add_aliases(
 '2018 FURA Maria Askholm Nielsen\n'+
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
-'2018 FUYO Maja Dybboe\n'+
+//'2018 FUYO Maja Dybboe\n'+
 '2019 FUAN Nicolaj Kuno Bræmhøj\n'+
 '2019 FUDA Nikolaj Dahl Hansen\n'+
 '2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
 '2019 FULR Toke Lindhard\n'+
-'2019 FUOM Mathilde Ørsted Toft\n'+
+//'2019 FUOM Mathilde Ørsted Toft\n'+
 '2019 FUSR Josephine Mai Scharf Andersen\n'+
 '2019 FUTE Mette Rydder\n'+
 '2019 FUTÜ Frederik Würtz Sørensen\n'+
-'2019 FUWA Agnete Bie Westphael\n'+
+//'2019 FUWA Agnete Bie Westphael\n'+
+'2020 FUAN Jakob Lauritsen\n'+
+'2020 FUDI Freja Marie Dithmer Gam\n'+
+'2020 FUDI Freja Gam\n'+
+'2020 FUEI Lea Vibe Pedersen\n'+
+'2020 FUML Heidi Dueholm Lunde\n'+
+'2020 FUML Heidi Lunde\n'+
+'2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
+'2020 FUNÉ André Slot Kristensen\n'+
+'2020 FUNI Andrea Skadhede Skadhede\n'+
+'2020 FUNI Andrea Skadhede\n'+
+'2020 FURY Christian Voldby\n'+
+'2020 FUUD Lotte Munkvad\n'+
+'2020 FUMS Kurt Herlev Rasmussen\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
 //'3 EFUIT Oliver Emil Harritslev Christensen\n'+
 '4 EFUIT Jonas Tranberg Sørensen\n'+
 //'5 EFUIT Johannes Jensen\n'+
 '6 EFUIT Mathias Old Jensen\n'+
-'7 EFUIT Mathias Ravn Tversted\n'+
+//'7 EFUIT Mathias Ravn Tversted\n'+
 '8 EFUIT Mikkel Wienberg Madsen\n'+
+'9 EFUIT Ida Fricke Jørgensen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
@@ -1188,6 +1212,7 @@ add_aliases(
 '"Smør"       Kenneth Lund Kjærgaard\n'+
 //'"Kalus"      Klaus Olesen\n'+
 '"Ion" Rune Naujokat Troelsgaard Thorsen\n'+
+'"HH" Hans-Henrik Sztuk Teut\n'+
 ''
 );
 var enabled = true;
