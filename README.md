@@ -26,3 +26,9 @@ Tryk på disse taster inde på Facebook for at ændre indstillingerne til fbtk:
 Slå fbtk til eller fra: `*` (asterisk)  
 Slå FU-præfiks til eller fra: `!` (udråbstegn)  
 Ændr TK-året: `+` / `-` (plus / minus)
+
+## Opdatéring efter GF
+* Opdater gf-året i `script.js`
+* Tilføj BEST/FU-titler og -navne i `navne.js`
+* Udkommentér eventuelle ældre titler for BEST/FU i `navne.js`
+* Bump versionen i toppen af `script.js`
