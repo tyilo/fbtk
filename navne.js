@@ -279,5 +279,6 @@ add_aliases(
 '"Smør"       Kenneth Lund Kjærgaard\n'+
 //'"Kalus"      Klaus Olesen\n'+
 '"Ion" Rune Naujokat Troelsgaard Thorsen\n'+
+'"HH" Hans-Henrik Sztuk Teut\n'+
 ''
 );
