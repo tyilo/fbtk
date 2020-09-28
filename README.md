@@ -32,3 +32,4 @@ Slå FU-præfiks til eller fra: `!` (udråbstegn)
 * Tilføj BEST/FU-titler og -navne i `navne.js`
 * Udkommentér eventuelle ældre titler for BEST/FU i `navne.js`
 * Bump versionen i toppen af `script.js`
+* Kør `make` og commit `build/`
