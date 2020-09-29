@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.4.13
+// @version      0.5
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -294,6 +294,8 @@ function search_for_names(n) {
 				c = n;
 			}
 		} else if (n.nodeType == 3) {
+			if (n.parentNode.isContentEditable) continue;
+
 			// We are in a DOM text node.
 			// Replace every occurrence of a real name with an alias.
 			// If the node contains x substrings,
