@@ -8,8 +8,6 @@
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
 // @version      0.4.12
-// @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
-// @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
