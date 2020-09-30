@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.5
+// @version      0.5.1
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end

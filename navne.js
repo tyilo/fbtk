@@ -101,7 +101,7 @@ add_aliases(
 '2018 CERM Fredrik Egil Helsengreen\n'+
 '2018 FORM Thomas Skovlund Hansen\n'+
 '2018 INKA Jens Christian Jørgensen\n'+
-'2018 KA$$ Johanne Tankred\n'+
+'2018 KASS Johanne Tankred\n'+
 '2018 NF   Søren István Adorján Dyhr\n'+
 '2018 PR   Ida Meyer Granum\n'+
 '2018 SEKR Luna Lynge Malzard\n'+
@@ -109,8 +109,8 @@ add_aliases(
 '2019 CERM Jesper Dam Knudgaard\n'+
 '2019 FORM Jacob Fjerbæk Olsen\n'+
 '2019 INKA Ida Rose Nielsen\n'+
-'2019 KA$$ Tessa Cecilia Broeders\n'+
-'2019 KA$$ Tessa Broeders\n'+
+'2019 KASS Tessa Cecilia Broeders\n'+
+'2019 KASS Tessa Broeders\n'+
 '2019 NF   Johannes Jensen\n'+
 '2019 PR   Morten Hulbæk Fog\n'+
 '2019 SEKR Sarah Eckholdt Jensen\n'+
@@ -120,7 +120,7 @@ add_aliases(
 '2020 FORM Maja Dybboe\n'+
 '2020 INKA Nichlas Nordestgaard Vingtoft\n'+
 '2020 INKA Nichlas Vingtoft\n'+
-'2020 KA$$ Lærke Niclasen\n'+
+'2020 KASS Lærke Niclasen\n'+
 '2020 NF   Mathias Ravn Tversted\n'+
 '2020 PR   Mathilde Ørsted Toft\n'+
 '2020 SEKR Mikala Mai Halbirk\n'+
