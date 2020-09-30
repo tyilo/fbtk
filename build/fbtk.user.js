@@ -1214,6 +1214,7 @@ add_aliases(
 //'"Kalus"      Klaus Olesen\n'+
 '"Ion" Rune Naujokat Troelsgaard Thorsen\n'+
 '"HH" Hans-Henrik Sztuk Teut\n'+
+'"Søren (datalog)" Søren Skov Eriksen\n'+
 ''
 );
 var enabled = true;
