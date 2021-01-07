@@ -57,7 +57,7 @@ add_aliases(
 '2012 VC   Peter Slemming-Adamsen\n'+
 '2013 CERM Diana Christensen\n'+
 '2013 FORM Mathias Rav\n'+
-'2013 KASS Christina Moeslund\n'+
+'2013 KASS Christina Moeslund Zeuthen\n'+
 '2013 NF   Christian Fretté\n'+
 '2013 PR   Mette Lysgaard Schulz\n'+
 '2013 SEKR Karina Sunds Nielsen\n'+

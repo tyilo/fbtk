@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.5.1
+// @version      0.5.2
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -990,7 +990,7 @@ add_aliases(
 '2012 VC   Peter Slemming-Adamsen\n'+
 '2013 CERM Diana Christensen\n'+
 '2013 FORM Mathias Rav\n'+
-'2013 KASS Christina Moeslund\n'+
+'2013 KASS Christina Moeslund Zeuthen\n'+
 '2013 NF   Christian Fretté\n'+
 '2013 PR   Mette Lysgaard Schulz\n'+
 '2013 SEKR Karina Sunds Nielsen\n'+
