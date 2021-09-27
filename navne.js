@@ -126,6 +126,14 @@ add_aliases(
 '2020 SEKR Mikala Mai Halbirk\n'+
 '2020 SEKR Mikala Halbirk\n'+
 '2020 VC   Simon Bølling Nordentoft\n'+
+'2021 CERM Ida Fricke Jørgensen\n'+
+'2021 FORM Peter Juelsgaard\n'+
+'2021 INKA Maria Askholm Nielsen\n'+
+'2021 KASS Frederik Würtz Sørensen\n'+
+'2021 NF Christian Børsen Smedegaard\n'+
+'2021 PR Josefine Bjørndal Robl\n'+
+'2021 SEKR Jakob Lauritsen\n'+
+'2021 VC Christian Voldby\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+
@@ -217,21 +225,21 @@ add_aliases(
 //'2018 FUFO Morten Hulbæk Fog\n'+
 '2018 FUIB Sofie Behrmann\n'+
 '2018 FUNØ Katrine Høholt Kaspersen\n'+
-'2018 FURA Maria Askholm Nielsen\n'+
+//'2018 FURA Maria Askholm Nielsen\n'+
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
 //'2018 FUYO Maja Dybboe\n'+
 '2019 FUAN Nicolaj Kuno Bræmhøj\n'+
 '2019 FUDA Nikolaj Dahl Hansen\n'+
-'2019 FUHØ Christian Børsen Smedegaard\n'+
+//'2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
 '2019 FULR Toke Lindhard\n'+
 //'2019 FUOM Mathilde Ørsted Toft\n'+
 '2019 FUSR Josephine Mai Scharf Andersen\n'+
 '2019 FUTE Mette Rydder\n'+
-'2019 FUTÜ Frederik Würtz Sørensen\n'+
+//'2019 FUTÜ Frederik Würtz Sørensen\n'+
 //'2019 FUWA Agnete Bie Westphael\n'+
-'2020 FUAN Jakob Lauritsen\n'+
+//'2020 FUAN Jakob Lauritsen\n'+
 '2020 FUDI Freja Marie Dithmer Gam\n'+
 '2020 FUDI Freja Gam\n'+
 '2020 FUEI Lea Vibe Pedersen\n'+
@@ -242,7 +250,7 @@ add_aliases(
 '2020 FUNÉ André Slot Kristensen\n'+
 '2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
-'2020 FURY Christian Voldby\n'+
+//'2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
@@ -252,7 +260,8 @@ add_aliases(
 '6 EFUIT Mathias Old Jensen\n'+
 //'7 EFUIT Mathias Ravn Tversted\n'+
 '8 EFUIT Mikkel Wienberg Madsen\n'+
-'9 EFUIT Ida Fricke Jørgensen\n'+
+//'9 EFUIT Ida Fricke Jørgensen\n'+
+'10 EFUIT Sofie Kirk Nielsen\n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
