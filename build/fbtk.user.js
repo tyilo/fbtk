@@ -1183,6 +1183,16 @@ add_aliases(
 '2020 FUNÉ André Slot Kristensen\n'+
 '2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
+'2021 FUAN Jakob Sandø Lund\n'+
+'2021 FUFR Sif Floor\n'+
+'2021 FUGA Caspar Agerskov Madsen\n'+
+'2021 FULU Marie-Louise Lykke Nielsen\n'+
+'2021 FURP Jeppe Pedersen\n'+
+'2021 FUSA David Kildahl Larsen\n'+
+'2021 FUSB Johanne Bojsen Kjær\n'+
+'2021 FUTM Emil Tejn Rasmussen\n'+
+'2021 FUÄU Katrine Bräuner\n'+
+'2021 FUØX Emil Sixhøj Mors\n'+
 //'2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
