@@ -63,7 +63,7 @@ add_aliases(
 '2013 SEKR Karina Sunds Nielsen\n'+
 '2013 VC   Mathias Dannesbo\n'+
 '2014 CERM Jonas Kielsholm\n'+
-'2014 FORM Martin Sand\n'+
+'2014 FORM Martin Sand Halle\n'+
 '2014 INKA Henrik Lund Mortensen\n'+
 '2014 KASS Mathias Jaquet Mavraganis\n'+
 '2014 NF   Jacob Schnedler\n'+
@@ -233,7 +233,7 @@ add_aliases(
 '2019 FUDA Nikolaj Dahl Hansen\n'+
 //'2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
-'2019 FULR Toke Lindhard\n'+
+'2019 FULR Toke Marstrand Pontoppidan Lindhard\n'+
 //'2019 FUOM Mathilde Ørsted Toft\n'+
 '2019 FUSR Josephine Mai Scharf Andersen\n'+
 '2019 FUTE Mette Rydder\n'+
