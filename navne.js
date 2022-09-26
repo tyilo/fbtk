@@ -138,7 +138,7 @@ add_aliases(
 '2022 FORM Casper Rysgaard\n'+
 '2022 INKA Nicolaj Kuno Bræmhøj\n'+
 '2022 KASS Søren Kjærsgaard\n'+
-'2022 NF Toke Lindhard\n'+
+'2022 NF Toke Marstrand Pontoppidan Lindhard\n'+
 '2022 PR Marie-Louise Lykke Nielsen\n'+
 '2022 SEKR Clara Bjergsø\n'+
 '2022 VC Sif Floor\n'+
