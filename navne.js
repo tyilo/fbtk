@@ -237,11 +237,11 @@ add_aliases(
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
 //'2018 FUYO Maja Dybboe\n'+
-'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
+//'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
 '2019 FUDA Nikolaj Dahl Hansen\n'+
 //'2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
-'2019 FULR Toke Marstrand Pontoppidan Lindhard\n'+
+//'2019 FULR Toke Marstrand Pontoppidan Lindhard\n'+
 //'2019 FUOM Mathilde Ørsted Toft\n'+
 '2019 FUSR Josephine Mai Scharf Andersen\n'+
 '2019 FUTE Mette Rydder\n'+
@@ -259,9 +259,9 @@ add_aliases(
 '2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
 '2021 FUAN Jakob Sandø Lund\n'+
-'2021 FUFR Sif Floor\n'+
+//'2021 FUFR Sif Floor\n'+
 '2021 FUGA Caspar Agerskov Madsen\n'+
-'2021 FULU Marie-Louise Lykke Nielsen\n'+
+//'2021 FULU Marie-Louise Lykke Nielsen\n'+
 '2021 FURP Jeppe Pedersen\n'+
 '2021 FUSA David Kildahl Larsen\n'+
 '2021 FUSB Johanne Bojsen Kjær\n'+
