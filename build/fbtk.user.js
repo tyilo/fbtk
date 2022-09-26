@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.5.4
+// @version      0.6.4
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -27,7 +27,7 @@ window['TKconfig'] = ({
 	// Whether exponents should be written as superscripts
 	'eksponent': true,
 	// From which year prefixes are computed
-	'gf': 2021,
+	'gf': 2022,
 	// True if we should write a prefix in front of a FU title
 	'FUprefix': false
 });
@@ -1067,6 +1067,14 @@ add_aliases(
 '2021 PR Josefine Bjørndal Robl\n'+
 '2021 SEKR Jakob Lauritsen\n'+
 '2021 VC Christian Voldby\n'+
+'2022 CERM Asger Weeth\n'+
+'2022 FORM Casper Rysgaard\n'+
+'2022 INKA Nicolaj Kuno Bræmhøj\n'+
+'2022 KASS Søren Kjærsgaard\n'+
+'2022 NF Toke Lindhard\n'+
+'2022 PR Marie-Louise Lykke Nielsen\n'+
+'2022 SEKR Clara Bjergsø\n'+
+'2022 VC Sif Floor\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+

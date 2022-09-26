@@ -134,6 +134,14 @@ add_aliases(
 '2021 PR Josefine Bjørndal Robl\n'+
 '2021 SEKR Jakob Lauritsen\n'+
 '2021 VC Christian Voldby\n'+
+'2022 CERM Asger Weeth\n'+
+'2022 FORM Casper Rysgaard\n'+
+'2022 INKA Nicolaj Kuno Bræmhøj\n'+
+'2022 KASS Søren Kjærsgaard\n'+
+'2022 NF Toke Lindhard\n'+
+'2022 PR Marie-Louise Lykke Nielsen\n'+
+'2022 SEKR Clara Bjergsø\n'+
+'2022 VC Sif Floor\n'+
 '2005 FUJA Jane Drejer\n'+
 '2006 FUZA Sarah Zakarias\n'+
 '2007 FUAN Kenneth Sejdenfaden Bøgh\n'+

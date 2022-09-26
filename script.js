@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.5.4
+// @version      0.6.4
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -27,7 +27,7 @@ window['TKconfig'] = ({
 	// Whether exponents should be written as superscripts
 	'eksponent': true,
 	// From which year prefixes are computed
-	'gf': 2021,
+	'gf': 2022,
 	// True if we should write a prefix in front of a FU title
 	'FUprefix': false
 });
