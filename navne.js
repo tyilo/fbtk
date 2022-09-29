@@ -268,6 +268,16 @@ add_aliases(
 '2021 FUTM Emil Tejn Rasmussen\n'+
 '2021 FUÄU Katrine Bräuner\n'+
 '2021 FUØX Emil Sixhøj Mors\n'+
+'2022 FUAN Julius Thomas\n'+
+'2022 FUCI Alice Pernille Bach Hjort\n'+
+'2022 FUDS Jens Magnus Lunding Kusk\n'+
+'2022 FUEG Thomas Vang Jensen\n'+
+'2022 FUGO Sigurd Lund Boytang\n'+
+'2022 FUIR Ida Sofie Pedersen Damkjær\n'+
+'2022 FUJR Rikke Johanning\n'+
+'2022 FUND Anne Sofie Gam Husted\n'+
+'2022 FUNO Simon Malthe Hansen\n'+
+'2022 FUXR Alexander Arp Steenberg Johansen\n'+
 //'2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+

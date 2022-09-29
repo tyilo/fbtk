@@ -1071,7 +1071,7 @@ add_aliases(
 '2022 FORM Casper Rysgaard\n'+
 '2022 INKA Nicolaj Kuno Bræmhøj\n'+
 '2022 KASS Søren Kjærsgaard\n'+
-'2022 NF Toke Lindhard\n'+
+'2022 NF Toke Marstrand Pontoppidan Lindhard\n'+
 '2022 PR Marie-Louise Lykke Nielsen\n'+
 '2022 SEKR Clara Bjergsø\n'+
 '2022 VC Sif Floor\n'+
@@ -1170,11 +1170,11 @@ add_aliases(
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
 //'2018 FUYO Maja Dybboe\n'+
-'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
+//'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
 '2019 FUDA Nikolaj Dahl Hansen\n'+
 //'2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
-'2019 FULR Toke Marstrand Pontoppidan Lindhard\n'+
+//'2019 FULR Toke Marstrand Pontoppidan Lindhard\n'+
 //'2019 FUOM Mathilde Ørsted Toft\n'+
 '2019 FUSR Josephine Mai Scharf Andersen\n'+
 '2019 FUTE Mette Rydder\n'+
@@ -1192,15 +1192,25 @@ add_aliases(
 '2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
 '2021 FUAN Jakob Sandø Lund\n'+
-'2021 FUFR Sif Floor\n'+
+//'2021 FUFR Sif Floor\n'+
 '2021 FUGA Caspar Agerskov Madsen\n'+
-'2021 FULU Marie-Louise Lykke Nielsen\n'+
+//'2021 FULU Marie-Louise Lykke Nielsen\n'+
 '2021 FURP Jeppe Pedersen\n'+
 '2021 FUSA David Kildahl Larsen\n'+
 '2021 FUSB Johanne Bojsen Kjær\n'+
 '2021 FUTM Emil Tejn Rasmussen\n'+
 '2021 FUÄU Katrine Bräuner\n'+
 '2021 FUØX Emil Sixhøj Mors\n'+
+'2022 FUAN Julius Thomas\n'+
+'2022 FUCI Alice Pernille Bach Hjort\n'+
+'2022 FUDS Jens Magnus Lunding Kusk\n'+
+'2022 FUEG Thomas Vang Jensen\n'+
+'2022 FUGO Sigurd Lund Boytang\n'+
+'2022 FUIR Ida Sofie Pedersen Damkjær\n'+
+'2022 FUJR Rikke Johanning\n'+
+'2022 FUND Anne Sofie Gam Husted\n'+
+'2022 FUNO Simon Malthe Hansen\n'+
+'2022 FUXR Alexander Arp Steenberg Johansen\n'+
 //'2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
