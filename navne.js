@@ -289,7 +289,8 @@ add_aliases(
 //'7 EFUIT Mathias Ravn Tversted\n'+
 '8 EFUIT Mikkel Wienberg Madsen\n'+
 //'9 EFUIT Ida Fricke Jørgensen\n'+
-'10 EFUIT Sofie Kirk Nielsen\n'+
+//'10 EFUIT Sofie Kirk Nielsen\n'+
+'11 EFUIT Magnus Bech Wind \n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
