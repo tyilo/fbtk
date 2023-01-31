@@ -7,7 +7,7 @@
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
 // @include      https://www.messenger.com/*
-// @version      0.5.5
+// @version      0.5.6
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -1069,7 +1069,7 @@ add_aliases(
 '2021 VC Christian Voldby\n'+
 '2022 CERM Asger Weeth\n'+
 '2022 FORM Casper Rysgaard\n'+
-'2022 INKA Nicolaj Kuno Bræmhøj\n'+
+'2022 INKA Benjamin Nørmølle Buttenschøn\n'+
 '2022 KASS Søren Kjærsgaard\n'+
 '2022 NF Toke Marstrand Pontoppidan Lindhard\n'+
 '2022 PR Marie-Louise Lykke Nielsen\n'+
@@ -1170,7 +1170,7 @@ add_aliases(
 '2018 FURO Frederik Kobemis Andersen\n'+
 '2018 FUUF Albert Freud Abildgaard\n'+
 //'2018 FUYO Maja Dybboe\n'+
-//'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
+'2019 FUAN Nicolaj Kuno Bræmhøj\n'+
 '2019 FUDA Nikolaj Dahl Hansen\n'+
 //'2019 FUHØ Christian Børsen Smedegaard\n'+
 '2019 FULE Jacob Birkeland Steenstrup\n'+
@@ -1187,7 +1187,7 @@ add_aliases(
 '2020 FUML Heidi Dueholm Lunde\n'+
 '2020 FUML Heidi Lunde\n'+
 '2020 FUMS Kurt Herlev Rasmussen\n'+
-'2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
+//'2020 FUMØ Benjamin Nørmølle Buttenschøn\n'+
 '2020 FUNÉ André Slot Kristensen\n'+
 '2020 FUNI Andrea Skadhede Kristensen\n'+
 '2020 FUNI Andrea Skadhede\n'+
@@ -1211,7 +1211,7 @@ add_aliases(
 '2022 FUND Anne Sofie Gam Husted\n'+
 '2022 FUNO Simon Malthe Hansen\n'+
 '2022 FUXR Alexander Arp Steenberg Johansen\n'+
-//'2020 FURY Christian Voldby\n'+
+	//'2020 FURY Christian Voldby\n'+
 '2020 FUUD Lotte Munkvad\n'+
 '1 EFUIT Lauge Mølgaard Hoyer\n'+
 '2 EFUIT Philip Tchernavskij\n'+
@@ -1222,7 +1222,8 @@ add_aliases(
 //'7 EFUIT Mathias Ravn Tversted\n'+
 '8 EFUIT Mikkel Wienberg Madsen\n'+
 //'9 EFUIT Ida Fricke Jørgensen\n'+
-'10 EFUIT Sofie Kirk Nielsen\n'+
+//'10 EFUIT Sofie Kirk Nielsen\n'+
+'11 EFUIT Magnus Bech Wind \n'+
 '"ADAM"       Adam Etches\n'+
 '"Nissen"     Anders Hauge Nissen\n'+
 '"Metal Bo"   Bo Mortensen\n'+
